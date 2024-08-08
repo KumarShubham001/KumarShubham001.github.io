@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkimpress_anshu=self.webpackChunkimpress_anshu||[]).push([[384],{384:(a,s,e)=>{e.r(s),e.d(s,{default:()=>h});var n=e(579);const h=a=>(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)("img",{src:"bubu (4).gif"}),(0,n.jsx)("h1",{children:"Chotu maan jao na! Kitna bhav khaogi? \ud83d\ude2d"}),(0,n.jsx)("h3",{children:"Bahot galat baat hai yaar \ud83d\ude2d"}),(0,n.jsx)("div",{className:"response-buttons",children:(0,n.jsx)("button",{onClick:a.onYes,children:"Theek hai beta, iss baar maan gai"})})]})}}]);
+//# sourceMappingURL=384.515bae9d.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkimpress_anshu=self.webpackChunkimpress_anshu||[]).push([[446],{446:(s,e,h)=>{h.r(e),h.d(e,{default:()=>c});var r=h(579);const c=()=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsxs)("div",{class:"pyro",children:[(0,r.jsx)("div",{class:"before"}),(0,r.jsx)("div",{class:"after"})]}),(0,r.jsx)("img",{src:"bubu (5).gif"}),(0,r.jsx)("h1",{children:"Hehehehehehe... I knew it!"}),(0,r.jsx)("h2",{children:"Love you a lot my cutoooo \ud83d\ude18"})]})}}]);
+//# sourceMappingURL=446.9e6c2845.chunk.js.map
